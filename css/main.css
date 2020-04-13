@@ -1,0 +1,39 @@
+
+body {margin: 5% auto; 
+    background: #000000; 
+    color: #f2f2f2; 
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; 
+    font-size: 16px; 
+    line-height: 1.8; 
+    margin:2em auto;
+    max-width:800px;
+    padding:1em;
+}
+
+.menu{
+
+    float: right;
+}
+
+
+code {
+    background: white;
+}
+
+a {
+    border-bottom: 1px solid #ffdd57 ;
+    color:  #ffdd57 ; 
+    text-decoration: none;
+}
+
+
+a:hover {
+    border-bottom: 0;
+}
+
+.profile{
+    margin: 10px ; 
+    border-radius: 100%;
+    width: 20%;
+}
+
