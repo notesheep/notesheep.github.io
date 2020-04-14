@@ -31,9 +31,15 @@ a:hover {
     border-bottom: 0;
 }
 
-.profile{
+.profile-active{
     margin: 10px ; 
     border-radius: 100%;
     width: 20%;
+}
+
+.profile-inactive{
+    
+    border-radius: 100%;
+    width: 10%;
 }
 
