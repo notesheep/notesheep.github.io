@@ -17,7 +17,8 @@ body {margin: 5% auto;
 
 
 code {
-    background: white;
+    background:  #ffdd57   ;
+    color: black;
 }
 
 a {
@@ -43,3 +44,39 @@ a:hover {
     width: 10%;
 }
 
+.box{
+    background: hotpink;
+    line-height: 1.8; 
+    margin:2em auto;
+    max-width:400px;
+    padding:1em;
+    float: left;
+}
+
+.status-danger{
+    color: #000000;;
+    background:#ff3860;
+    line-height: 2; 
+    padding:1em;
+}
+
+.status-success{
+    color: #000000;;
+    background:#23d160;
+    line-height: 2; 
+    padding:1em;
+}
+
+.status-warning{
+    color: #000000;;
+    background:#ffdd57;
+    line-height: 2; 
+    padding:1em;
+}
+
+.status-info{
+    color: #000000;;
+    background:#209cee;
+    line-height: 2; 
+    padding:1em;
+}
