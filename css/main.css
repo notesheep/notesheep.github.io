@@ -27,6 +27,12 @@ a {
     text-decoration: none;
 }
 
+.just-link {
+    border-bottom:none;
+    color:  #ffdd57 ; 
+    text-decoration: none;
+}
+
 
 a:hover {
     border-bottom: 0;
